@@ -14,7 +14,7 @@ Below is the roadmap I follow, along with a checklist of concepts I have impleme
 ### Phase 1: The Physics ⚙️
 *(Understanding memory infrastructure and object creation)*
 - [X] **Class vs. Object:** The difference between the blueprint and the live instance.
-- [ ] **Stack vs. Heap Memory:** Where data lives in memory.
+- [X] **Stack vs. Heap Memory:** Where data lives in memory.
 - [ ] **Reference Variables:** How we point to objects.
 
 ### Phase 2: Birth & State ✨
