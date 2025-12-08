@@ -15,11 +15,7 @@ Below is the roadmap I follow, along with a checklist of concepts I have impleme
 *(Understanding memory infrastructure and object creation)*
 - [X] **Class vs. Object:** The difference between the blueprint and the live instance.
 - [X] **Stack vs. Heap Memory:** Where data lives in memory.
-<<<<<<< HEAD
 - [X] **Reference Variables:** How we point to objects.
-=======
-- [ ] **Reference Variables:** How we point to objects.
->>>>>>> 0a88ca98946f525b0757333b472bbb0f1b99e8ff
 
 ### Phase 2: Birth & State ✨
 *(Object lifecycle and state management)*
