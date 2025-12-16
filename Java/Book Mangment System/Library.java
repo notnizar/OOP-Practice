@@ -34,4 +34,20 @@ public class Library {
         }
         return null;
     }
+
+    public void removeBook(String title) {
+        boolean isRemoved = false;
+        for (int i = 0; i < books.length; i++) {
+            if (books[i] != null && books[i].getTitle().equals(title)) {
+                books[i] = null;
+                System.out.println("Book Removed Successfully");
+                isRemoved = true;
+                break;
+            }
+
+        }
+        if (isRemoved == false) {
+            System.out.println("Book Not Found");
+        }
+    }
 }
