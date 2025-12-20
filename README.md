@@ -19,20 +19,20 @@ Below is the roadmap I follow, along with a checklist of concepts I have impleme
 
 ### Phase 2: Birth & State ✨
 *(Object lifecycle and state management)*
-- [ ] **Constructors:** How an object is born (Initial State).
-- [ ] **The `this` Keyword:** Referencing the current object.
-- [ ] **Static vs. Instance:** Shared (Class) data vs. Individual (Object) data.
+- [X] **Constructors:** How an object is born (Initial State).
+- [X] **The `this` Keyword:** Referencing the current object.
+- [X] **Static vs. Instance:** Shared (Class) data vs. Individual (Object) data.
 
 ### Phase 3: Security 🛡️
 *(Data protection and access control)*
-- [ ] **Access Modifiers:** Controlling visibility (Public, Private, Protected).
-- [ ] **Encapsulation:** Hiding complexity and protecting data.
-- [ ] **Getters & Setters:** Controlled access to private fields.
+- [X] **Access Modifiers:** Controlling visibility (Public, Private, Protected).
+- [X] **Encapsulation:** Hiding complexity and protecting data.
+- [X] **Getters & Setters:** Controlled access to private fields.
 
 ### Phase 4: Relationships 🤝
 *(How objects interact with each other)*
-- [ ] **Inheritance (IS-A):** Code reusability and hierarchy.
-- [ ] **The `super` Keyword:** Accessing parent class members.
+- [X] **Inheritance (IS-A):** Code reusability and hierarchy.
+- [X] **The `super` Keyword:** Accessing parent class members.
 - [ ] **Composition (HAS-A):** Building complex objects from simpler ones (The better alternative?).
 
 ### Phase 5: Polymorphism 🎭
