@@ -33,7 +33,7 @@ Below is the roadmap I follow, along with a checklist of concepts I have impleme
 *(How objects interact with each other)*
 - [X] **Inheritance (IS-A):** Code reusability and hierarchy.
 - [X] **The `super` Keyword:** Accessing parent class members.
-- [ ] **Composition (HAS-A):** Building complex objects from simpler ones (The better alternative?).
+- [X] **Composition (HAS-A):** Building complex objects from simpler ones (The better alternative?).
 
 ### Phase 5: Polymorphism 🎭
 *(Flexibility and multiple forms)*
