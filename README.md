@@ -43,8 +43,8 @@ Below is the roadmap I follow, along with a checklist of concepts I have impleme
 
 ### Phase 6: The Architect 🏛️
 *(Structure and Abstraction)*
-- [ ] **Abstract Classes:** Incomplete blueprints.
-- [ ] **Interfaces:** Strict contracts for classes.
+- [X] **Abstract Classes:** Incomplete blueprints.
+- [X] **Interfaces:** Strict contracts for classes.
 - [ ] **Loose Coupling:** Reducing dependencies between classes.
 
 ### Phase 7: Professional Design 🚀
